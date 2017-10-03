@@ -14,6 +14,13 @@ Through this project, you will:
     Apply Material Design guidelines to an mobile application.
     Separate an interface into surfaces.
     Effectively use transitions and motion.
+=Libraries
+
+    Android Design Support,
+    Android Palette Support,
+    RecyclerView,
+    CardView,
+    Volley.
 
 
 
